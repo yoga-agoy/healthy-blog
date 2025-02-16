@@ -554,7 +554,7 @@ ul.conta_top li a {
 .about::before {
      position: absolute;
      content: "";
-     background: url(../images/about_left.png);
+/*      background: url(../images/about_left.png); */
      background-repeat: no-repeat;
      width: 360px;
      height: 212px;
